@@ -18,7 +18,5 @@
 
   },
   "devDependencies": {
-    "detect-file-encoding-and-language": "^2.4.0",
-    "nodemon": "^3.1.0"
   }
 }
