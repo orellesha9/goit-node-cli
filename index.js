@@ -1,4 +1,3 @@
-
 import { program } from "commander";
 import * as contactsService from "./contacts.js";
 
