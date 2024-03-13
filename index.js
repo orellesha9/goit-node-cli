@@ -1,4 +1,4 @@
-import DetectFileEncodingAndLanguage from "detect-file-encoding-and-language";
+
 import { program } from "commander";
 import * as contactsService from "./contacts.js";
 
